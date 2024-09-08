@@ -1,8 +1,12 @@
-# Cardano Blockchain Certified Associate (CBCA) Public Notes
+# Cardano Blockchain Certified Associate (CBCA) Notes
 
 > Taking notes and writing while I'm studying helps me better remember what I'm watching. These notes are not meant to be a well-structured article but outline import topics of the CBCA course.
 
 > So is going to be full of typos and miss-spelled words
+
+## The course
+
+[Cardano Blockchain Certified Associate ↗](https://academy.cardanofoundation.org/) A free course about Blockchain and Cardano network for complete beginners.
 
 ## Notes by module
 
@@ -24,9 +28,9 @@
 
    1.8. [Proof of stake and Proof of work](./1-module/proof-of-x-proof-of-work.md)
 
-   1.9. Other approaches to consensus
+   1.9. [Other approaches to consensus](./1-module/other-approaches-to-consensus.md)
 
-2. **Advanced blokchain concepts**
+2. **Advanced blockchain concepts**
 
 - Transction models
   chain features

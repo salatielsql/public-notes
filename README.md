@@ -23,3 +23,9 @@ This is a repository where I'll be updating while watching courses or reading bo
 _In no particular order_
 
 - [Cardano Blockchain Certificate Associate](./cardano-blockchain-certified-associate/README.md)
+
+## Icons meaning
+
+- ↗️ External link
+- ▶️ Video link
+- 💬 My words

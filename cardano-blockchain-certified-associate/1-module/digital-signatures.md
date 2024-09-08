@@ -7,7 +7,7 @@
 
 ## The process
 
-![The process](./images/digital-signatures.png)
+![The process](../images/digital-signatures.png)
 
 Only Alice **owner of the private key** can use the singing algorithm but anyone can verify the message using Alice's public key.
 

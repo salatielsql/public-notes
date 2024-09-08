@@ -65,7 +65,7 @@ To a transaction to be commited to the ledger these 3 steps must happen:
 2. The node must then foward the request to all other nodes
 3. Each node then replies to the original client with the outcome of the executing the request
 
-![Simplified PBFT Under Normal Operation Mode](./images/Simplified%20PBFT%20Under%20Normal%20Operation%20Mode.png)
+![Simplified PBFT Under Normal Operation Mode](../images/Simplified%20PBFT%20Under%20Normal%20Operation%20Mode.png)
 
 [▶️ Video explaining PBFT](https://youtu.be/IafgKJN3nwU)
 
@@ -92,6 +92,6 @@ To a transaction to be commited to the ledger these 3 steps must happen:
 - Inheritly federated
 - Prone to Sybil Attacks _meaning is possible to a single actor to control more than one node_
 
-![messaging overhead](./images/messaging%20overhead.png)
+![messaging overhead](../images/messaging%20overhead.png)
 
 > A single request in a cluster of 4 nodes would require 24 messages, 8 nodes 71 messages and 13 nodes 237 messages
