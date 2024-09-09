@@ -23,6 +23,8 @@ This is a repository where I'll be updating while watching courses or reading bo
 _In no particular order_
 
 - [Cardano Blockchain Certificate Associate](./cardano-blockchain-certified-associate/README.md)
+- [Build a Mario Database via Terminal Only](./build-a-mario-database/README.md)
+- [Descomplicando Docker - LinuxTips](/descomplicando-docker/README.md)
 
 ## Icons meaning
 
